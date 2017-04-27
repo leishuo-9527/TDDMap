@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\4d0260c86c3da172e489e563e7169f69992a6895\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\0aba3d29734e3039cce5804eac2a1c5753c9ffe5\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\4d0260c86c3da172e489e563e7169f69992a6895\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\4d0260c86c3da172e489e563e7169f69992a6895\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\4d0260c86c3da172e489e563e7169f69992a6895\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\4d0260c86c3da172e489e563e7169f69992a6895\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\4d0260c86c3da172e489e563e7169f69992a6895\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\4d0260c86c3da172e489e563e7169f69992a6895\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\4d0260c86c3da172e489e563e7169f69992a6895\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\0aba3d29734e3039cce5804eac2a1c5753c9ffe5\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\0aba3d29734e3039cce5804eac2a1c5753c9ffe5\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\4d0260c86c3da172e489e563e7169f69992a6895\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\0aba3d29734e3039cce5804eac2a1c5753c9ffe5\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\0aba3d29734e3039cce5804eac2a1c5753c9ffe5\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\0aba3d29734e3039cce5804eac2a1c5753c9ffe5\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\navi\\Desktop\\MVP\\android-architecture-todo-mvp-loaders\\TDDMap\\mvp\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\navi\\.android\\build-cache\\4d0260c86c3da172e489e563e7169f69992a6895\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]
